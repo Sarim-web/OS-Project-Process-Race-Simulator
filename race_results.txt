@@ -1,0 +1,13 @@
+2025-12-08 16:11:19 | Winner: Racer 3 | Duration: 48.609s
+2025-12-09 15:11:29 | Winner: Racer 1 | Duration: 21.561s
+2025-12-09 15:11:55 | Winner: Racer 4 | Duration: 14.94s
+2025-12-09 15:13:40 | Winner: Racer 1 | Duration: 16.734s
+2025-12-14 15:08:54 | Winner: Racer 2 | Duration: 48.559s
+2025-12-14 15:09:46 | Winner: Racer 1 | Duration: 11.615s
+2025-12-18 00:29:54 | Winner: Racer 4 | Duration: 25.707s
+2025-12-18 00:30:09 | Winner: Racer 4 | Duration: 14.692s
+2025-12-18 11:44:02 | Winner: Racer 1 | Duration: 16.818s
+2025-12-18 12:13:01 | Winner: Racer 4 | Duration: 43.137s
+2025-12-18 12:13:14 | Winner: Racer 2 | Duration: 11.839s
+2025-12-18 12:47:47 | Winner: Racer 3 | Duration: 24.44s
+2025-12-21 19:36:04 | Winner: Racer 3 | Duration: 12.859s
